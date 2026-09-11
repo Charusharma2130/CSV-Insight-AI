@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]=
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables / API keys
+.env
+
+# Streamlit
+.streamlit/
+
+# Generated files
+reports/
+charts/
+
+# Uploaded / local data
+Data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
